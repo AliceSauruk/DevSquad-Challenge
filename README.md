@@ -1,6 +1,4 @@
-README – QA Test Report - DevSquad Challenge
-
-Project: DevSquad Challenge for QA Tester Candidate – https://qa-training.sbx.devsquad.app/
+DevSquad Challenge for QA Tester Candidate – https://qa-training.sbx.devsquad.app/
 
 Candidate: Alice Sauruk de Andrade
 
@@ -251,7 +249,7 @@ Accessibility
 
 •	All interactive elements must be fully functional with both mouse and keyboard. This includes making the Terms and Conditions checkbox clickable and enabling keyboard navigation for the Country of Residence and State dropdowns.
 
-4. CONCLUSION
+5. CONCLUSION
 
 This test was fully designed and implemented by me to cover all aspects that I considered essential for this challenge. I know that I still have much to learn, but I want to emphasize that if given the opportunity, I will dedicate myself and continue to improve every day.
 All test files are organized within the tests folder for clarity and structure. Thank you very much for your time and for considering my application.
