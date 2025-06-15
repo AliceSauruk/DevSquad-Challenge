@@ -1,10 +1,15 @@
 README – QA Test Report - DevSquad Challenge
 
 Project: DevSquad Challenge for QA Tester Candidate – https://qa-training.sbx.devsquad.app/
+
 Candidate: Alice Sauruk de Andrade
+
 Role: QA Tester
+
 Reviewer: QA Lead Edmozer Souza
+
 Test Framework: Playwright (TypeScript)
+
 
 
 1. OVERVIEW
